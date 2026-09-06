@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Astitwa</h1>
 <h3 align="center">An Undergraduate Chemical Engineering Student</h3>
 
-- 🔭 I’m currently Stuided on **GIET UNIVERSITY GUNUPUR**
+- 🔭 Currently honing my engineering acumen in Chemical Engineering 
 
 - 🌱 I’m currently learning **AI/ML , MATLAB , ASPEN PLUS , MATLAB , CFD , ASPEN HYSYS , LOPA**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/astitwa-si-180138373](linkedin.com/in/astitwa-si-180138373)
 
-- ⚡ Fun fact **I THINK I AM A PROCASTINATOR**
+- ⚡ **Transmuting caffeine into algorithms and audacious ideas into tangible realities**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
