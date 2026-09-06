@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Astitwa</h1>
 <h3 align="center">An Undergraduate Chemical Engineering Student</h3>
 
-- 🔭 I’m currently working on **GIET UNIVERSITY GUNUPUR**
+- 🔭 I’m currently Stuided on **GIET UNIVERSITY GUNUPUR**
 
 - 🌱 I’m currently learning **AI/ML , MATLAB , ASPEN PLUS , MATLAB , CFD , ASPEN HYSYS , LOPA**
 
