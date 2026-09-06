@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Astitwa</h1>
 <h3 align="center">An Undergraduate Chemical Engineering Student</h3>
 
-- 🔭 Currently honing my engineering acumen in Chemical Engineering 
+- 🔭 Currently honing my Engineering acumen in Chemical Engineering 
 
 - 🌱 I’m currently learning **AI/ML , MATLAB , ASPEN PLUS , MATLAB , CFD , ASPEN HYSYS , LOPA**
 
